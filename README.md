@@ -1,5 +1,5 @@
 # Predicting Employee Turnover of a Business
-This is a Project from the Data Scientist Formation Degree by Data Science Academy Brazil. The idea is to build a classification model to predict if an employee will or not leave the company based on the variables satisfaction level, number of projects one is working, number of hours worked in a month and the years this person is in that company.
+This is a Project from the Data Scientist Program Degree by Data Science Academy Brazil. The idea is to build a classification model to predict if an employee will or not leave the company based on the variables satisfaction level, number of projects one is working, number of hours worked in a month and the years this person is in that company.
 Activities performed:
 * Data Exploration and Analysis
 * Data Visualization (Histograms, Boxplots, Barplots)
