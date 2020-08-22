@@ -2,7 +2,8 @@
 This is a Project from the Data Scientist Program Degree by Data Science Academy Brazil. The idea is to build a classification model to predict if an employee will or not leave the company based on the variables satisfaction level, number of projects one is working, number of hours worked in a month and the years this person is in that company.
 
 Learn more about this project in this [link to the project report.](https://bit.ly/2QguEFX)
-Access the Shiny app > [link](https://gurezende.shinyapps.io/HRAnalytics-Turnover/)
+
+Access the Shiny app here: [link](https://gurezende.shinyapps.io/HRAnalytics-Turnover/)
 
 Activities performed:
 * Data Exploration and Analysis
