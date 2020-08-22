@@ -114,7 +114,7 @@ ui <- fluidPage(theme = shinytheme("cosmo"),
                              p(' It becomes visible that there is an impact from the promotions in the company’s turnover.
                               From those who were promoted within the last 5 years, only 5% left. When the group not promoted is analyzed, 
                                that number increases to 24%.'),
-                             p('Furthermore, there is a low number of employees that stay longer than 5 years in the company.'),
+                             p('Furthermore, there is a high turnover rate for employees between 3 to 5 years in the company.'),
                              p('Once again, another pain point to be worked and developed by the HR dept. This company needs clear career
                               paths and new promotion criteria.'),
                              br(),
