@@ -1,5 +1,5 @@
 # Set Work directory
-setwd('/Users/santos@us.ibm.com/Documents/FCD/Busines Analytics')
+setwd('')
 
 # Load packages
 #----------------------------------------------------------------------
