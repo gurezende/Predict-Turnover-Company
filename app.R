@@ -103,8 +103,8 @@ ui <- fluidPage(theme = shinytheme("cosmo"),
                              p('The analysis showed us that HR should allocate between 3 and 5 project per person, being those 
                                numbers where it was noted the highest satisfaction levels. People with 2 projects, on the other hand, 
                                are less motivated - possibly because they feel undervalued - and are those who more leave the company.'),
-                             p('Now, regarding worked hours per month, taking as base a week with 40 hours of labor journey (160 hs/week), 
-                               numbers like 200 to 250 hours should be considered high. But ‘even though it is not clear the relationship 
+                             p('Now, regarding worked hours per month, taking as base a week with 40 hours of labor journey (160 hs/month), 
+                               numbers like 200 to 250 hours should be considered high. But even though it is not clear the relationship 
                                between hours worked and satisfaction level, the trend line shows that for high numbers like 250+ hours the
                                satisfaction level drops quickly as well as the chance of that person to leave the company.'),
                              br(),
