@@ -1,4 +1,4 @@
-setwd('/Users/santos@us.ibm.com/Documents/FCD/Busines Analytics')
+setwd('')
 
 ###############################
 ###### Package Loads ##########
