@@ -52,7 +52,7 @@ ui <- fluidPage(theme = shinytheme("cosmo"),
                              h3('Author'),
                              p('My name is', strong('Gustavo R Santos'), '. I am a Data Analyst | Data Scientist and work with R, Python, MS Excel and SQL to extract insights from data, 
                                       helping companies to make better decisions.'),
-                             p('See more projects in my GitHub page:', a('https://bit.ly/3j43yOM')),
+                             p('See more projects in my GitHub page:', a('GitHub Portfolio',href='https://bit.ly/3j43yOM')),
                              
                              h3('The Project'),
                              p('In this project, I have worked with HR Analystics, creating a classification predictor that returns to a HR manager
